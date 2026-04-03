@@ -12,7 +12,6 @@ To minimize overfitting in Machine Learning, Reqularizations techniques are appl
 
 ```
 Formula : Cost_Function + Lass Regression + Redge Regression
-![alt text](image.png)
 ```
 When we compared these two with cost function that's called Elastic Net.
 
